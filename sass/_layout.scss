@@ -55,7 +55,8 @@
     padding: 3rem;
   }
   @media only screen and (max-width: $bp-small) {
-    flex-direction: column;
+    margin-right: 0;
+    margin-bottom: 0;
   }
 }
 
