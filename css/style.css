@@ -137,6 +137,14 @@ body {
   height: 3.25rem;
   margin-left: 2rem; }
 
+.title {
+  color: var(--color-primary);
+  font-size: 3rem;
+  text-transform: uppercase;
+  background-color: #fff;
+  justify-content: center;
+  display: flex; }
+
 .search {
   flex: 0 0 40%;
   display: flex;
